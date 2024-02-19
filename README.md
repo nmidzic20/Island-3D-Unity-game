@@ -26,7 +26,7 @@ Forgot to add key to quit the game, so it can only be ended via Task Manager.
 
 # Demo
 
-!(Demo video)[https://www.dropbox.com/s/wbkl46dd70ym5am/island_prototype_demo.mp4?dl=0]
+[Demo video](https://www.dropbox.com/s/wbkl46dd70ym5am/island_prototype_demo.mp4?dl=0)
 
 # Certificate
 
