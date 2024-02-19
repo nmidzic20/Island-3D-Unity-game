@@ -14,13 +14,13 @@ To start the game, navigate to `exe` and run `Island.exe`.
 
 # Controls
 
-Moving - WASD keys
-F key - switch between first and third person
-Shift - Run
-Spacebar - Jump/Roll
-Enter - Sheathe/Unsheathe sword
-Left mouse click - Sword attack 1
-Right mouse click - Sword attack 2
+- Moving - WASD keys
+- F key - switch between first and third person
+- Shift - Run
+- Spacebar - Jump/Roll
+- Enter - Sheathe/Unsheathe sword
+- Left mouse click - Sword attack 1
+- Right mouse click - Sword attack 2
 
 Forgot to add key to quit the game, so it can only be ended via Task Manager.
 
