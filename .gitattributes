@@ -1,0 +1,2 @@
+exe/Island_Data/resources.assets filter=lfs diff=lfs merge=lfs -text
+exe/Island_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
