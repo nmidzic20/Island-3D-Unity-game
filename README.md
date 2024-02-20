@@ -7,7 +7,7 @@ Mooks, boss, skybox and nature assets are free assets from Unity's Asset Store.
 
 # Installation
 
-`unity` directory contains game files to be opened in Unity.
+`unity` directory contains game files to be opened in Unity (navigate to Resources/Scenes and run the scene).
 `exe` directory contains .exe game file.
 
 To start the game, navigate to `exe` and run `Island.exe`.
