@@ -1,4 +1,4 @@
-My first Unity game, created for the final project for Harvard's course "CS50's Introduction to Game Development".
+My first Unity game, created in 2021 for the final project for Harvard's course "CS50's Introduction to Game Development".
 
 A 3D game where the player explores an island to find all 3 pieces of a sword and use it to defeat the boss on the top of a mountain.
 
